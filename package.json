@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple server",
   "main": "src/server.js",
-  "author": "Majdi Toumi <majdi@mhirba.com>",
+  "author": "Thomas COLZI",
   "license": "ISC",
   "scripts": {
     "dev": "npx nodemon src/server",
